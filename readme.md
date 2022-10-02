@@ -17,10 +17,10 @@ Cyjcrf [^1] b second [^2]
 [^1]: zhopa
 [^2]:  pic
 
-table | table2 | table3
+<!-- table | table2 | table3
 :----| :---- | :----
 jskdhf| sdjhfjs | sjkdk
-jdhjf| sjdhfjs| jhsjd
+jdhjf| sjdhfjs| jhsjd -->
 
 Termin
 : text
